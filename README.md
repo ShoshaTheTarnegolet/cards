@@ -1,2 +1,0 @@
-# cards
-new Angular project
